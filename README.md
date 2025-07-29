@@ -26,8 +26,8 @@ Cursando duas faculdades ao mesmo tempo para maximizar o caos, com foco em lógi
 
 ## 📬 Network? Bora, uai!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thayssabino)  
-[![Discord](https://img.shields.io/badge/--%237289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/thays_sabino)  
-[![Gmail](https://img.shields.io/badge/--%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:thayssabino.br@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thayssabino)
+[![Discord](https://img.shields.io/badge/--%237289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/thays_sabino)
+[![Gmail](https://img.shields.io/badge/--%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:thayssabino.br@gmail.com)  
 
 <p align="left">✨ Em constante evolução, um commit de cada vez. ✨</p>
