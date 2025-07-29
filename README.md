@@ -24,7 +24,7 @@ Cursando duas faculdades ao mesmo tempo para maximizar o caos, com foco em lógi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
 </div>
 
-## 📬 Network? Bora, uai!
+## 🤝 Networking? Bora, uai!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thayssabino)
 [![Discord](https://img.shields.io/badge/--%237289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/thays_sabino)
